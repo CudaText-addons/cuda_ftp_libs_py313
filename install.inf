@@ -1,0 +1,7 @@
+[info]
+title=SFTP support for FTP plugin, Windows x32/x64, Python 3.13
+desc=Note! For this package to work, the versions of python313.dll and python3.dll in the CudaText folder must be the same.
+type=cudatext-plugin
+subdir=cuda_ftp_libs_py313
+homepage=https://github.com/CudaText-addons/cuda_ftp_libs_py313
+os=win
